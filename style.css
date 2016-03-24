@@ -82,7 +82,8 @@ font-size: 7px;
     font-size: 12px;
 }
 #main{
-    margin: 10px;
+    border: 10px solid white;
+    border-right:  10px solid white;
 }
 button{
    color: whitesmoke;
@@ -91,7 +92,7 @@ button{
     width: 76px;
     height: 30px;
     border-style: hidden;
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 #d4{
@@ -102,19 +103,20 @@ button{
     border-bottom-color:mintcream; 
     margin: 0 auto;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    padding-top: 6px;
+    padding-top: 10px;
+    font-size: 14px;
 }
 #d41{
  width:32%;
 height:100%;
 float: left;
-margin-right:  solid white 6px;
+margin-right: 6px solid white ;
 }
 #d42{
   width:32%;
 height:100%;
 float: left; 
-border-right: solid white 6px;
+border-right:6px solid white ;
 }
 #d43{
   width:32%;
