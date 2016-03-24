@@ -7,7 +7,7 @@ body{top:0;
     top:0;
     width:600px;
     height:1902px;
-    background-color: rgba(0,0,0,);
+    background-color: rgba(0,0,0,0.4);
     margin: 0 auto;
 }
 
@@ -182,6 +182,7 @@ float: left;
     background-color:lime;
     border-bottom:10px solid;
     border-bottom-color: transparent; 
+    margin-top: 11px transparent;
 }
 
 
@@ -205,9 +206,23 @@ a:link{
     font-weight: 800;
 }
 
-#spana{
-   height: auto;
-    width: 100%;
-    float: left;
-    
+.spana1{
+text-align: center;
+height: auto;
+width: 100%;
+float: left;
+font-size: 17px;
+color: white; 
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-weight: 600;
+margin-top: 16px; 
+}
+
+#d81{
+   font-family: "Trebuchet MS", Helvetica, sans-serif; 
+   font-size: 16px;
+    padding: 7px;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: darkgrey;
 }
