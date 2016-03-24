@@ -18,7 +18,7 @@ body{top:0;
     height:105px;
     background-color:#282828;
     border-bottom:10px solid;
-    border-bottom-color:mintcream;
+    border-bottom-color:transparent;
 }
 #d1a{
     padding-bottom: 3px;
@@ -74,7 +74,7 @@ font-size: 7px;
     width:600px;
     height:204px;
     border-bottom:10px solid;
-    border-bottom-color:mintcream;
+    border-bottom-color:transparent;
     font-family: "Trebuchet MS";
 }
 #sec1{
@@ -100,7 +100,7 @@ button{
     height:215px;
     background-color:white;
     border-bottom:10px solid;
-    border-bottom-color:mintcream; 
+    border-bottom-color:transparent; 
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     padding-top: 10px;
     font-size: 15px;
@@ -136,7 +136,7 @@ float: left;
     height:255px;
     background-color:white;
     border-bottom:10px solid;
-    border-bottom-color:mintcream; 
+    border-bottom-color:transparent; 
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 #d5l{
@@ -159,7 +159,7 @@ float: left;
     height:255px;
     background-color:white;
     border-bottom:10px solid;
-    border-bottom-color:mintcream;
+    border-bottom-color:transparent;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 #d6r{
@@ -181,26 +181,31 @@ float: left;
     height:120px;
     background-color:lime;
     border-bottom:10px solid;
-    border-bottom-color:mintcream; 
+    border-bottom-color: transparent; 
 }
 
 
 #d8{
 width:100%;
     height:170px;
-    background-color:#525252;
+    background-color:white;
     border-bottom:auto solid;
-    border-bottom-color:mintcream;
+    border-bottom-color: transparent;
 }
 #d9{
   width:100%;
     height:110px;
     background-color:#282828;
     border-bottom-width:auto;border-bottom-style: solid;
-    border-bottom-color:mintcream;  
+    border-bottom-color: transparent;  
 }
 
 a:link{
     text-decoration: none;
     font-weight: 800;
+}
+
+#spana{
+    
+    
 }
