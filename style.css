@@ -79,7 +79,7 @@ font-size: 7px;
 }
 #sec1{
     color: darkgrey;
-    font-size: 12px;
+    font-size: 15px;
 }
 #main{
     border: 10px solid white;
@@ -103,15 +103,15 @@ button{
     border-bottom-color:mintcream; 
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     padding-top: 10px;
-    font-size: 14px;
+    font-size: 15px;
     color: darkgray;
 }
-h3{ color: black; text-align: center;}
+h3{ color: black;}
 #d41{
  width:32%;
 height:100%;
 float: left;
-margin-left: 15px;
+margin-left: 16px;
 }
 #d42{
   width:32%;
@@ -143,6 +143,9 @@ float: left;
     width: 49%;
     height:100%;
     float: left;
+    font-size: 16px;
+    color: darkgray;
+    margin-left: 6px;
 }
 
 #d5r{
@@ -156,7 +159,21 @@ float: left;
     height:255px;
     background-color:white;
     border-bottom:10px solid;
-    border-bottom-color:mintcream;  
+    border-bottom-color:mintcream;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+#d6r{
+    width: 49%;
+    height:100%;
+    float: left;
+    font-size: 16px;
+    color: darkgray;
+}
+#d6l{
+    width: 49%;
+    height:100%;
+    float: left;
+    margin-left: 6px;
 }
 
 #d7{
