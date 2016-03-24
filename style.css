@@ -105,7 +105,9 @@ button{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     padding-top: 10px;
     font-size: 14px;
+    color: darkgray;
 }
+h3{ color: black; text-align: center;}
 #d41{
  width:32%;
 height:100%;
@@ -125,7 +127,7 @@ float: left;
 
 }
 img{
-    margin: 0 auto;
+   margin-left: 73px;
     width: 47px;
     height: 47px;
 }
